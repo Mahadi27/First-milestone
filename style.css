@@ -6,15 +6,6 @@ h1 {
     font-size: 60px;
 }
 
-h2 {
-    font-size: 50px;
-}
-
-h3 {
-    font-size: 27px;
-}
-
-
 #center-align {
     font-size: 20px;
     text-align: center;
@@ -42,6 +33,15 @@ h3 {
     padding-bottom: 30px;
     font-size: 20px;
 }
+
+h2 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 27px;
+}
+
 
 .amount-monitor {
     display: flex;
